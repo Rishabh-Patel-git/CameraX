@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "316811876225",
+    "project_id": "camera-recog",
+    "storage_bucket": "camera-recog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316811876225:android:ca6d2da7f91711e13b7a80",
+        "android_client_info": {
+          "package_name": "com.example.cameraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316811876225-oedppo4842k5mu70up2lg0qnkerm1n34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cameraapp",
+            "certificate_hash": "c90acd919cfc1d15dbed480fe420e3aa1d02f78f"
+          }
+        },
+        {
+          "client_id": "316811876225-512n4snnhs0jem8ea68j79au8o20ue7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmFpZTuvNkGVoiviT4xCBwOpc-6jMeP4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316811876225-512n4snnhs0jem8ea68j79au8o20ue7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
